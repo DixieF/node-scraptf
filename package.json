@@ -1,0 +1,26 @@
+{
+  "name": "node-scraptf",
+  "version": "1.0.0",
+  "description": "Unofficial API Wrapper for scrap.tf",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekBroadway/node-scraptf.git"
+  },
+  "keywords": [
+    "Scraptf",
+    "node",
+    "steam"
+  ],
+  "author": "Jack Broadway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekBroadway/node-scraptf/issues"
+  },
+  "homepage": "https://github.com/GeekBroadway/node-scraptf#readme"
+}
