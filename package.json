@@ -3,8 +3,15 @@
   "version": "1.0.0",
   "description": "Unofficial API Wrapper for scrap.tf",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0",
+    "tough-cookie-filestore": "0.0.1"
+  },
+  "devDependencies": {
+    "steam-totp": "^1.4.0",
+    "steam-user": "^3.19.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
